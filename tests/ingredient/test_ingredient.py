@@ -1,5 +1,5 @@
 from src.models.ingredient import Ingredient  # noqa: F401, E261, E501
-from src.models.ingredient import Restriction  # noqa: F401, E261, E501
+from src.models.ingredient import Restriction
 
 mock_carne = {Restriction.ANIMAL_MEAT, Restriction.ANIMAL_DERIVED}
 
