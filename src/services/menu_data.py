@@ -1,5 +1,4 @@
 # Req 3
-from os.path import exists
 import csv
 from src.models.dish import Dish
 from src.models.ingredient import Ingredient
